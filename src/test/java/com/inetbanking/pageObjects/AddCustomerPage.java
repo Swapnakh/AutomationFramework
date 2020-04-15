@@ -14,6 +14,7 @@ WebDriver ldriver;
 	public AddCustomerPage(WebDriver rdriver) {
 		ldriver=rdriver;
 		PageFactory.initElements(rdriver, this);
+		System.out.println("intilizing AddCusomerPage");
 	}
 	
 	@FindBy(how = How.XPATH, using ="/html/body/div[3]/div/ul/li[2]/a")

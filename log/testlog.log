@@ -156,4 +156,8 @@
  2019-11-04 09:52:52,784 - inetBankingv1 -INFO - User name is provided
  2019-11-04 09:52:52,874 - inetBankingv1 -INFO - Passsword is provided
  2019-11-04 09:52:57,587 - inetBankingv1 -INFO - providing customer details....
+ 2020-04-15 10:16:53,494 - inetBankingv1 -INFO - Opening the URL
+ 2020-04-15 10:16:54,812 - inetBankingv1 -INFO - Entered the user name
+ 2020-04-15 10:16:55,012 - inetBankingv1 -INFO - Entered the password
+ 2020-04-15 10:16:56,183 - inetBankingv1 -INFO - Condition passed
  

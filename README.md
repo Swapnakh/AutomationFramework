@@ -1,3 +1,3 @@
 # AutomationFramework
 
-read
+this framework about about net banking

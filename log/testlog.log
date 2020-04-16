@@ -160,4 +160,8 @@
  2020-04-15 10:16:54,812 - inetBankingv1 -INFO - Entered the user name
  2020-04-15 10:16:55,012 - inetBankingv1 -INFO - Entered the password
  2020-04-15 10:16:56,183 - inetBankingv1 -INFO - Condition passed
+ 2020-04-15 19:05:28,713 - inetBankingv1 -INFO - Opening the URL
+ 2020-04-15 19:05:30,268 - inetBankingv1 -INFO - Entered the user name
+ 2020-04-15 19:05:30,530 - inetBankingv1 -INFO - Entered the password
+ 2020-04-15 19:05:31,981 - inetBankingv1 -INFO - Condition passed
  

@@ -28,9 +28,9 @@ public class TC_AddCustomerTest_002 extends BaseClass{
 		logger.info("providing customer details....");
 		
 		
-		addcust.custName("Rama");
-		addcust.custgender("female");
-		addcust.custdob("10","15","1985");
+		addcust.custName("Mary");
+		addcust.custgender("F");
+		addcust.custdob("10","15","19");
 		Thread.sleep(5000);
 		addcust.custaddress("USA");
 		addcust.custcity("Dublin");

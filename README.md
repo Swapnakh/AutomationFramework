@@ -1,8 +1,8 @@
 # AutomationFramework
 
-there was no readme.md file in your project so  i want to add that in yout project
+this framework about about net banking
 
-this is the second pull request
+the project expnation is automation of net banking  procees using jenkins  i added this sentence
 
 
-this is the third and fourth pull request
+200 ok succuess  will appear thir time
